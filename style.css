@@ -107,13 +107,13 @@ body {
 }
 
 #main-footer{
-    padding: 0;
+    padding: 5px;
     position: fixed; 
-    bottom: 1%;
-    right: -7%;
-    text-align: center;
+    bottom: 0%;
+    text-align: right;
     font-size: small;
     margin: auto;
+    width: 100%;
 }
 
 .wrapper {
